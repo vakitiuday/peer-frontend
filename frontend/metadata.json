@@ -1,0 +1,6 @@
+{
+  "name": "Peer Skill Exchange Platform",
+  "description": "A collaborative peer-to-peer knowledge sharing and intelligent skill matching platform for students to teach, learn, and grow together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
